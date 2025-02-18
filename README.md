@@ -6,3 +6,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonarul&layout=compact&hide=makefile,cmake&theme=tokyonight"/>
 </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=solomonarul&color=gray&style=for-the-badge"/>
+</p>
